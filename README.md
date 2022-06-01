@@ -1,4 +1,4 @@
-<div><img src="https://media-exp1.licdn.com/dms/image/C4E16AQFzslhUrL-UnQ/profile-displaybackgroundimage-shrink_350_1400/0/1593415863001?e=1626307200&v=beta&t=lVzx909bCwdoiCgIemap6zV2UpgSWE2oA0HAewMZu2c" >
+<div><img src="https://drive.google.com/file/d/1AEFGTAL14J-t3orouokuu6y3iXoaRchj/view" >
  <div>
 <h1 align="center">Hi 👋, I'm Ankush Sharma</h1>
 <h3 align="center">A passionate Web Developer</h3>
