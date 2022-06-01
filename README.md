@@ -1,4 +1,4 @@
-<div><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--JxK9sCUh--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ir1icsc610iet9cr1cer.jpeg" >
+<div><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--JxK9sCUh--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ir1icsc610iet9cr1cer.jpeg" width="250px" >
  <div>
 <h1 align="center">Hi 👋, I'm Ankush Sharma</h1>
 <h3 align="center">A passionate Web Developer</h3>
