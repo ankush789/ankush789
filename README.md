@@ -1,5 +1,7 @@
-<div><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--JxK9sCUh--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ir1icsc610iet9cr1cer.jpeg" height="250px" width="100%" >
- <div>
+<!-- <div><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--JxK9sCUh--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ir1icsc610iet9cr1cer.jpeg" height="350px" width="100%" >
+ <div> -->
+  
+  <div><img src="https://t4.ftcdn.net/jpg/02/78/37/47/360_F_278374738_ypRn0utOVnebuhmpSrDiwkzFsdqEm0aa.jpg" width="100%" height="350px"/></div>
 <h1 align="center">Hi 👋, I'm Ankush Sharma</h1>
 <h3 align="center">A passionate Web Developer</h3>
 
